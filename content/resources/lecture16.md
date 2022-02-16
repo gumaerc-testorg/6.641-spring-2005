@@ -4,8 +4,13 @@ description: Lecture notes on elastic waves on a thin rod, governing equations, 
   case study on change in rod length, elastic waves, a case study on the region of
   initial uniform stress, boundary conditions, sinusoidal steady states, and electromechanical
   coupling.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-641-electromagnetic-fields-forces-and-motion-spring-2005/ff089f86ec15991dcb075d45c267d379_lecture16.pdf
+file: /media/courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/ff089f86ec15991dcb075d45c267d379_lecture16.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 16: Elastic Waves On a Thin Rod'
 uid: ff089f86-ec15-991d-cb07-5d45c267d379

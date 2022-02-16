@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Textbooks
 uid: 1e846f9f-eb56-5ace-98f1-7df4ff859b42
 ---

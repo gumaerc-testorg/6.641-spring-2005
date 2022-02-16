@@ -3,8 +3,13 @@ content_type: resource
 description: Lecture notes on magnetization, magnetic dipoles, Maxwell's equations
   with magnetization, magnetic field intensity along axis of a uniformly magnetized
   cylinder, magnetic circuits, reluctance, and transformers.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-641-electromagnetic-fields-forces-and-motion-spring-2005/32f92e8162acbc3041e3ac32861394bb_lecture8.pdf
+file: /media/courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/32f92e8162acbc3041e3ac32861394bb_lecture8.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 8: Magnetization '
 uid: 32f92e81-62ac-bc30-41e3-ac32861394bb

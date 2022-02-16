@@ -6,8 +6,13 @@ description: Lecture notes on polarization, conduction, the dipole model of pola
   uniform media, change relaxation in uniform conductors, relaxation of charge on
   particle in Ohmic conductor, self-excited water dynamos, conservation of charge
   boundary condition, and Maxwell's capacitor.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-641-electromagnetic-fields-forces-and-motion-spring-2005/06ced4886eba1fc1f0eb037b210e5afb_lecture7.pdf
+file: /media/courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/06ced4886eba1fc1f0eb037b210e5afb_lecture7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 7: Polarization and Conduction'
 uid: 06ced488-6eba-1fc1-f0eb-037b210e5afb

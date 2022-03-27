@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2fb9fff0-5f14-66d6-2a06-bbebc234d47a
 resourcetype: Document
 title: Quiz 1 - 2003
 uid: 7986b388-700e-ecde-f2a3-4c10a12d4974

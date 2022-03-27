@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2fb9fff0-5f14-66d6-2a06-bbebc234d47a
 resourcetype: Document
 title: Quiz 1 - Solutions 2005
 uid: cb8c7779-ee43-473c-41b1-de3da5df46f7

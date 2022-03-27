@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 2fb9fff0-5f14-66d6-2a06-bbebc234d47a
 resourcetype: Document
 title: Quiz 2 - Solutions 2004
 uid: ce4ca344-4ec2-2df8-1f68-d7b88ddf32a6

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 2731d273-06a6-74aa-8502-ee2adfb6aaaf
 resourcetype: Document
 title: Dedication
 uid: b24e3102-f471-4d98-5418-e94b6287cdac

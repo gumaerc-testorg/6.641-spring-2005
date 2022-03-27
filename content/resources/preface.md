@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 2731d273-06a6-74aa-8502-ee2adfb6aaaf
 resourcetype: Document
 title: Preface
 uid: 4d76e667-2f46-923a-d3a0-af89adaa1c28

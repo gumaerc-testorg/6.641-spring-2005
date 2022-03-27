@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 209f6e0c-04e0-2cf5-649a-1f72ea232d01
 resourcetype: Document
 title: 'Lecture 9: Magnetic Diffusion Phenomena'
 uid: 823e29f2-4af6-319d-6d97-241019f26218

@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 209f6e0c-04e0-2cf5-649a-1f72ea232d01
 resourcetype: Document
 title: 'Lecture 6: Magnetoquasistatics'
 uid: e9f69db3-8149-bdc3-7f47-194d46e59518

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 209f6e0c-04e0-2cf5-649a-1f72ea232d01
 resourcetype: Document
 title: 'Lecture 13: Magnetoquasistatic Forces'
 uid: d389c84f-55c4-791a-d070-b180577572f3

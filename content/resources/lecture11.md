@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 209f6e0c-04e0-2cf5-649a-1f72ea232d01
 resourcetype: Document
 title: "Lecture 11: Solutions to Laplace\u2019s Equation in Polar and Spherical Coordinates"
 uid: d3cb482c-b564-df8a-11cc-c4ef3ba8d7cf

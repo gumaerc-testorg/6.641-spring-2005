@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 209f6e0c-04e0-2cf5-649a-1f72ea232d01
 resourcetype: Document
 title: "Lecture 1: Integral Form of Maxwell\u2019s Equations"
 uid: 03f46e66-26e7-e6ac-0268-ed2e50f6da29

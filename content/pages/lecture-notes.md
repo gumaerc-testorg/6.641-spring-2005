@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 209f6e0c-04e0-2cf5-649a-1f72ea232d01
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -33,7 +38,7 @@ TOPICS
 L1
 {{< tdclose >}}
 {{< tdopen >}}
-Integral form of Maxwell's equations ([PDF]({{< baseurl >}}/resources/lecture1))
+Integral form of Maxwell's equations ({{% resource_link 03f46e66-26e7-e6ac-0268-ed2e50f6da29 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +47,7 @@ Integral form of Maxwell's equations ([PDF]({{< baseurl >}}/resources/lecture1))
 L2
 {{< tdclose >}}
 {{< tdopen >}}
-Differential form of Maxwell's equations ([PDF]({{< baseurl >}}/resources/lecture2))
+Differential form of Maxwell's equations ({{% resource_link 5ee93bfd-5358-d2f6-a8da-82ad8874c029 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +56,7 @@ Differential form of Maxwell's equations ([PDF]({{< baseurl >}}/resources/lectur
 L3
 {{< tdclose >}}
 {{< tdopen >}}
-Electroquasistatic (EQS) and magnetoquasistatic (MQS) fields and boundary conditions ([PDF]({{< baseurl >}}/resources/lecture3))
+Electroquasistatic (EQS) and magnetoquasistatic (MQS) fields and boundary conditions ({{% resource_link 47fbb5ff-17cb-74a5-d6a5-b9c1eeda9c23 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +65,7 @@ Electroquasistatic (EQS) and magnetoquasistatic (MQS) fields and boundary condit
 L4
 {{< tdclose >}}
 {{< tdopen >}}
-The scalar electric potential and the Coulomb superposition integral ([PDF]({{< baseurl >}}/resources/lecture4))
+The scalar electric potential and the Coulomb superposition integral ({{% resource_link 00b2fd4a-e919-6565-37f5-33c1aa421721 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +74,7 @@ The scalar electric potential and the Coulomb superposition integral ([PDF]({{< 
 L5
 {{< tdclose >}}
 {{< tdopen >}}
-Method of images ([PDF]({{< baseurl >}}/resources/lecture5))
+Method of images ({{% resource_link b2af5293-9f2c-8d47-cfae-10f5acabe4e7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +83,7 @@ Method of images ([PDF]({{< baseurl >}}/resources/lecture5))
 L6
 {{< tdclose >}}
 {{< tdopen >}}
-Magnetoquasistatics ([PDF]({{< baseurl >}}/resources/lecture6))
+Magnetoquasistatics ({{% resource_link e9f69db3-8149-bdc3-7f47-194d46e59518 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +98,7 @@ Magnetoquasistatics ([PDF]({{< baseurl >}}/resources/lecture6))
 L7
 {{< tdclose >}}
 {{< tdopen >}}
-Polarization and conduction ([PDF - 1.3 MB]({{< baseurl >}}/resources/lecture7))
+Polarization and conduction ({{% resource_link 06ced488-6eba-1fc1-f0eb-037b210e5afb "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +107,7 @@ Polarization and conduction ([PDF - 1.3 MB]({{< baseurl >}}/resources/lecture7))
 L8
 {{< tdclose >}}
 {{< tdopen >}}
-Magnetization ([PDF]({{< baseurl >}}/resources/lecture8))
+Magnetization ({{% resource_link 32f92e81-62ac-bc30-41e3-ac32861394bb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +116,7 @@ Magnetization ([PDF]({{< baseurl >}}/resources/lecture8))
 L9
 {{< tdclose >}}
 {{< tdopen >}}
-Magnetic diffusion phenomena ([PDF]({{< baseurl >}}/resources/lecture9))
+Magnetic diffusion phenomena ({{% resource_link 823e29f2-4af6-319d-6d97-241019f26218 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +131,7 @@ Magnetic diffusion phenomena ([PDF]({{< baseurl >}}/resources/lecture9))
 L10
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions to Laplace's equation in cartesian coordinates ([PDF]({{< baseurl >}}/resources/lecture10))
+Solutions to Laplace's equation in cartesian coordinates ({{% resource_link 7b32516f-bc5e-bf06-f77e-8f48a99da7be "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +140,7 @@ Solutions to Laplace's equation in cartesian coordinates ([PDF]({{< baseurl >}}/
 L11
 {{< tdclose >}}
 {{< tdopen >}}
-Solutions to Laplace's equation in polar and spherical coordinates ([PDF]({{< baseurl >}}/resources/lecture11))
+Solutions to Laplace's equation in polar and spherical coordinates ({{% resource_link d3cb482c-b564-df8a-11cc-c4ef3ba8d7cf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +155,7 @@ Solutions to Laplace's equation in polar and spherical coordinates ([PDF]({{< ba
 L12
 {{< tdclose >}}
 {{< tdopen >}}
-Electroquasistatic forces ([PDF]({{< baseurl >}}/resources/lecture12))
+Electroquasistatic forces ({{% resource_link 3fd8f83e-7b5e-9a67-af49-69cd790bd222 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +164,7 @@ Electroquasistatic forces ([PDF]({{< baseurl >}}/resources/lecture12))
 L13
 {{< tdclose >}}
 {{< tdopen >}}
-Magnetoquasistatic forces ([PDF]({{< baseurl >}}/resources/lecture13))
+Magnetoquasistatic forces ({{% resource_link d389c84f-55c4-791a-d070-b180577572f3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +173,7 @@ Magnetoquasistatic forces ([PDF]({{< baseurl >}}/resources/lecture13))
 L14
 {{< tdclose >}}
 {{< tdopen >}}
-Fields and moving media ([PDF - 1.6 MB]({{< baseurl >}}/resources/lecture14))
+Fields and moving media ({{% resource_link de5a9c95-fd71-bb9e-d5b9-eb4c0def3ec1 "PDF - 1.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +182,7 @@ Fields and moving media ([PDF - 1.6 MB]({{< baseurl >}}/resources/lecture14))
 L15
 {{< tdclose >}}
 {{< tdopen >}}
-Force densities, stress tensors, and forces ([PDF]({{< baseurl >}}/resources/lecture15))
+Force densities, stress tensors, and forces ({{% resource_link 507eeab3-9cb0-1758-2482-6ebfa6a7231d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -192,7 +197,7 @@ Force densities, stress tensors, and forces ([PDF]({{< baseurl >}}/resources/lec
 L16
 {{< tdclose >}}
 {{< tdopen >}}
-Elastic waves on a thin rod ([PDF]({{< baseurl >}}/resources/lecture16))
+Elastic waves on a thin rod ({{% resource_link ff089f86-ec15-991d-cb07-5d45c267d379 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +206,7 @@ Elastic waves on a thin rod ([PDF]({{< baseurl >}}/resources/lecture16))
 L17
 {{< tdclose >}}
 {{< tdopen >}}
-Transient waves on transmission lines ([PDF - 1.2 MB]({{< baseurl >}}/resources/lecture17))
+Transient waves on transmission lines ({{% resource_link 1bb72b7f-1faa-8c16-dafd-8a1f67ee6bab "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -212,7 +217,7 @@ L18
 {{< tdopen >}}
 
 
-Waves and instabilities in elastic media ([PDF - 1.3 MB]({{< baseurl >}}/resources/lecture18))
+Waves and instabilities in elastic media ({{% resource_link f098796b-4d36-73da-567e-a38bc32757b0 "PDF - 1.3 MB" %}})
 
 Film: _Complex Waves I_
 
@@ -227,7 +232,7 @@ L19
 {{< tdopen >}}
 
 
-Waves and instabilities in the presence of motion ([PDF]({{< baseurl >}}/resources/lecture19))
+Waves and instabilities in the presence of motion ({{% resource_link b543ee61-ea13-7c7c-6efc-e5b1e4a2cfc1 "PDF" %}})
 
 Film: _Complex Waves II_
 

@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: This calendar section provides information on the course's lecture (L),
+  recitation (R), and quiz (Q) sessions. The calendar also provides the topics of
+  films and demonstrations shown in class.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: 41de48fc-370a-b875-43f1-50364b3771d0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The calendar below provides information on the course's lecture (L), recitation (R), and quiz (Q) sessions. The calendar also provides the topics of films and demonstrations shown in class.

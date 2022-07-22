@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on course staff, prerequisites, the course text, homework, classes, exams, grading,
+  and physical demonstrations.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 4b5760d2-5c5c-295d-cc96-3ea6691c3827
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -115,4 +124,4 @@ The homework is an extremely important part of the subject. Students are allowed
 
 ### Demonstrations
 
-The course will have many physical demonstrations that are shown in lectures and recitations. For further study, many of the demonstrations are available in [Supplemental Resources](/resources/res-6-001-electromagnetic-fields-and-energy-spring-2008/index.htm).
+The course will have many physical demonstrations that are shown in lectures and recitations. For further study, many of the demonstrations are available in [Supplemental Resources](/courses/res-6-001-electromagnetic-fields-and-energy-spring-2008).

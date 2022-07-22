@@ -1,10 +1,22 @@
 ---
 content_type: page
+description: This section provides information on assigned readings. The readings
+  are separated into textbook sections and video demonstrations. The textbook sections
+  come from the Zahn and Woodson/Melcher textbooks. The video demonstrations accompany
+  the Haus/Melcher textbook. The Haus/Melcher textbook is used for the first half
+  of the course in addition to the textbook sections listed below.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 2731d273-06a6-74aa-8502-ee2adfb6aaaf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-The readings in the table below are separated into textbook sections and video demonstrations. The textbook sections come from the Zahn and Woodson/Melcher textbooks. The video demonstrations accompany the Haus/Melcher textbook. The Haus/Melcher textbook is used for the first half of the course in addition to the textbook sections listed below. All three textbooks can be found [here]({{< baseurl >}}/pages/textbooks).
+The readings in the table below are separated into textbook sections and video demonstrations. The textbook sections come from the Zahn and Woodson/Melcher textbooks. The video demonstrations accompany the Haus/Melcher textbook. The Haus/Melcher textbook is used for the first half of the course in addition to the textbook sections listed below. All three textbooks can be found {{% resource_link 1e846f9f-eb56-5ace-98f1-7df4ff859b42 "here" %}}.
 
 Assigned Readings
 -----------------

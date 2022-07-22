@@ -8,6 +8,7 @@ file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/e9f69d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on magnetoquasistatics, MQS governing equations, vector Poisson's equation, boundary conditions, the Biot–Savart superposition integral, on axis magnetic fields from current loop, axis magnetic fields of circular cylindrical solenoid, and fields of a circular cylindrical solenoid.
-

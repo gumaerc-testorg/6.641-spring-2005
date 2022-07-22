@@ -5,6 +5,7 @@ file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/4d76e6
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Preface to the course textbook on electromagnetic fields and energy.
-

@@ -10,6 +10,7 @@ file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/de5a9c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -23,4 +24,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on fields and moving media, Galilean time and space transformations, transformations for MQS systems, a moving media MQS problem, transformations for EQS systems, a moving line charge representation problem, Faraday's disk (homopolar generator), a self-excited DC homopolar generator, a self-excited AC homopolar generator, self-excited periodic motor speed reversals, DC commutator machines, and self-excited machines.
-

@@ -7,6 +7,7 @@ file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/d389c8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture notes on magnetoquasistatic forces, the MQS energy method of forces, force on a wire over a perfectly conducting plane, one turn loops, lifting of magnetic fluid, magnetic actuators, and a synchronous machine.
-

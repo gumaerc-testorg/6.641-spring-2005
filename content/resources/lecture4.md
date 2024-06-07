@@ -4,6 +4,7 @@ description: Lecture notes on quasistatics, irrotational EQS electric field, vec
   identity, Poisson's equation, the scalar electric potential, and the Coulomb superposition
   integral.
 file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/00b2fd4ae919656537f533c1aa421721_lecture4.pdf
+file_size: 187273
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

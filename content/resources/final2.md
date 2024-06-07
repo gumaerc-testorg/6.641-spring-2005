@@ -2,6 +2,7 @@
 content_type: resource
 description: Final exam on electromagnetic fields, forces, and motion.
 file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/0eeb7a4848c5515d90020ba56b92b94e_final2.pdf
+file_size: 161362
 file_type: application/pdf
 learning_resource_types:
 - Exams

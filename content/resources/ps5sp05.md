@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set on electromagnetic fields, forces, and motion.
 file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/813dbd48d8149927aaca3e62c37f0a03_ps5sp05.pdf
+file_size: 95601
 file_type: application/pdf
 learning_resource_types:
 - Assignments

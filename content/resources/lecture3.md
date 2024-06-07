@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on electroquasistatic fields, magnetoquasistatic fields,
   and boundary conditions.
 file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/47fbb5ff17cb74a5d6a5b9c1eeda9c23_lecture3.pdf
+file_size: 743337
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: Quiz on electromagnetic fields, forces, and motion.
 file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/0d02f3a33689877f16a5376d309f6d0c_quiz2_so4.pdf
+file_size: 122188
 file_type: application/pdf
 learning_resource_types:
 - Exams

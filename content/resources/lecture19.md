@@ -4,6 +4,7 @@ description: Lecture notes on waves and instabilities in the presence of motion,
   transformation, fast and slow non dispersive waves, evanescence and oscillation
   with convection, and convective instability or wave amplification.
 file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/b543ee61ea137c7c6efce5b1e4a2cfc1_lecture19.pdf
+file_size: 838140
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

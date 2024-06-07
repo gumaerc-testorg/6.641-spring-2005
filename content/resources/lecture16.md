@@ -5,6 +5,7 @@ description: Lecture notes on elastic waves on a thin rod, governing equations, 
   initial uniform stress, boundary conditions, sinusoidal steady states, and electromechanical
   coupling.
 file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/ff089f86ec15991dcb075d45c267d379_lecture16.pdf
+file_size: 987448
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

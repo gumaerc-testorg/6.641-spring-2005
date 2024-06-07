@@ -5,6 +5,7 @@ description: Lecture notes on waves and instabilities in elastic media, transver
   waves on a string, cut-off or evanescent waves, absolute or non convective instability,
   and electric field levitation of membranes.
 file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/f098796b4d3673da567ea38bc32757b0_lecture18.pdf
+file_size: 1403932
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

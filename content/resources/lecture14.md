@@ -7,6 +7,7 @@ description: Lecture notes on fields and moving media, Galilean time and space t
   self-excited periodic motor speed reversals, DC commutator machines, and self-excited
   machines.
 file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/de5a9c95fd71bb9ed5b9eb4c0def3ec1_lecture14.pdf
+file_size: 1705383
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

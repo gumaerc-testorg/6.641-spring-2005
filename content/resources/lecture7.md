@@ -7,6 +7,7 @@ description: Lecture notes on polarization, conduction, the dipole model of pola
   particle in Ohmic conductor, self-excited water dynamos, conservation of charge
   boundary condition, and Maxwell's capacitor.
 file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/06ced4886eba1fc1f0eb037b210e5afb_lecture7.pdf
+file_size: 1328771
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Dedication from the course textbook on electromagnetic fields and energy.
-file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/b24e3102f4714d985418e94b6287cdac_dedication.pdf
+file: /ol-ocw-studio-app/courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/b24e3102f4714d985418e94b6287cdac_dedication.pdf
 file_size: 23175
 file_type: application/pdf
 learning_resource_types:

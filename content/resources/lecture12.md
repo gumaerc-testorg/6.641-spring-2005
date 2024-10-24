@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on electroquasistatic forces, the EQS energy method of
   forces, forces in capacitors, energy conversion cycles, force on a dielectric material,
   and physical model of forces on dielectrics.
-file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/3fd8f83e7b5e9a67af4969cd790bd222_lecture12.pdf
+file: /ol-ocw-studio-app/courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/3fd8f83e7b5e9a67af4969cd790bd222_lecture12.pdf
 file_size: 436793
 file_type: application/pdf
 learning_resource_types:

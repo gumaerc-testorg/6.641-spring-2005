@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Preface to the course textbook on electromagnetic fields and energy.
-file: /ol-ocw-studio-app/courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/4d76e6672f46923ad3a0af89adaa1c28_preface.pdf
+file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/4d76e6672f46923ad3a0af89adaa1c28_preface.pdf
 file_size: 79067
 file_type: application/pdf
 learning_resource_types:

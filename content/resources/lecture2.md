@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on the divergence theorem, Stokes' theorem, applications
   to Maxwell's equations, and summary of Maxwell's equations in free space.
-file: /ol-ocw-studio-app/courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/5ee93bfd5358d2f6a8da82ad8874c029_lecture2.pdf
+file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/5ee93bfd5358d2f6a8da82ad8874c029_lecture2.pdf
 file_size: 667636
 file_type: application/pdf
 learning_resource_types:

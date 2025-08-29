@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on the wave equation (loss less), transmission line transient
   waves, and linear constant coefficient difference equations.
-file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/1bb72b7f1faa8c16dafd8a1f67ee6bab_lecture17.pdf
+file: /ol-ocw-studio-app/courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/1bb72b7f1faa8c16dafd8a1f67ee6bab_lecture17.pdf
 file_size: 1270423
 file_type: application/pdf
 learning_resource_types:

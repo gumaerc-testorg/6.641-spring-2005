@@ -4,7 +4,7 @@ description: Lecture notes on magnetic diffusion phenomena, nonuniqueness of vol
   in an MQS system, diffusion of axial magnetic fields into a circular tube, Edgerton's
   boomer, the magnetic diffusion equation, magnetic diffusion transient response,
   and sinusoidal steady state magnetic diffusion.
-file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/823e29f24af6319d6d97241019f26218_lecture9.pdf
+file: /ol-ocw-studio-app/courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/823e29f24af6319d6d97241019f26218_lecture9.pdf
 file_size: 384273
 file_type: application/pdf
 learning_resource_types:

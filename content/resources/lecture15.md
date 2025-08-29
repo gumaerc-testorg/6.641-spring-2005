@@ -4,7 +4,7 @@ description: Lecture notes on force densities, stress tensors, forces, the Maxwe
   stress tensor, air-gap magnetic machines, electrostatic machines, derivation of
   the Korteweg-Helmholtz force density for incompressible media from the quasistatic
   Poynting's theorem, and compressible media.
-file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/507eeab39cb0175824826ebfa6a7231d_lecture15.pdf
+file: /ol-ocw-studio-app/courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/507eeab39cb0175824826ebfa6a7231d_lecture15.pdf
 file_size: 578432
 file_type: application/pdf
 learning_resource_types:

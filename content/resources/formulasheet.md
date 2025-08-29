@@ -2,7 +2,7 @@
 content_type: resource
 description: Formula sheet on differential operators in cylindrical and spherical
   coordinates and solutions of Laplace's equations.
-file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/823f000aa993fdcc57293215f6d2dc52_formulasheet.pdf
+file: /ol-ocw-studio-app/courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/823f000aa993fdcc57293215f6d2dc52_formulasheet.pdf
 file_size: 83320
 file_type: application/pdf
 learning_resource_types:

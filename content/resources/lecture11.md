@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on solutions to Laplace's equation in polar and spherical
   coordinates.
-file: /courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/d3cb482cb564df8a11ccc4ef3ba8d7cf_lecture11.pdf
+file: /ol-ocw-studio-app/courses/6-641-electromagnetic-fields-forces-and-motion-spring-2005/d3cb482cb564df8a11ccc4ef3ba8d7cf_lecture11.pdf
 file_size: 542838
 file_type: application/pdf
 learning_resource_types:
